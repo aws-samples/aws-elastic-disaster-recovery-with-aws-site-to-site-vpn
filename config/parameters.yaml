@@ -1,0 +1,4 @@
+AppName: "AWS-EDR-with-AWS-S2S-VPN"
+AWSSideVPC: "10.0.0.0/16"
+OnPremiseSideVPC: "192.168.0.0/16"
+NumberOfAZs: 1
